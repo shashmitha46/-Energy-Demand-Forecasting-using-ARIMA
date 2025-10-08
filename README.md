@@ -31,7 +31,7 @@ Forecast electricity demand using ARIMA time-series modeling on historical load 
 - Automate periodic model retraining and update forecasts in real time.
 
 ## Acknowledgments
-Satyajit Pattnaik - Special thanks for the comprehensive tutorial and guidance. This project was developed by following the tutorial: [Energy Demand Forecasting Tutorial](https://youtu.be/0KVsYgsaY5s?si=KHcwvUd5r3faYaBH)
-Time series forecasting methodology from statistical literature
-ARIMA implementation using statsmodels library
-Energy consumption datasets from public sources
+- Satyajit Pattnaik - Special thanks for the comprehensive tutorial and guidance. This project was developed by following the tutorial: [Energy Demand Forecasting Tutorial](https://youtu.be/0KVsYgsaY5s?si=KHcwvUd5r3faYaBH)
+- Time series forecasting methodology from statistical literature
+- ARIMA implementation using statsmodels library
+- Energy consumption datasets from public sources
